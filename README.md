@@ -15,7 +15,7 @@
 # Introduction
 This project presents a Power BI dashboard analyzing sales, profit, and quantity trends for a Sample Superstore dataset. The dashboard provides insights into performance metrics across different states, product categories, and regions.
 
-#Dashboard Link
+# Dashboard Link
 
 
 # Steps-followed
@@ -23,23 +23,23 @@ This project presents a Power BI dashboard analyzing sales, profit, and quantity
 
 Imported Sample Superstore dataset.
 
-Data Cleaning & Transformation
+## Data Cleaning & Transformation
 
 Used Power Query to clean data and resolve inconsistencies.
 
-Data Modeling
+## Data Modeling
 
 Established relationships between tables and created calculated columns/measures.
 
-Dashboard Creation
+## Dashboard Creation
 
 Designed visuals including KPIs, line charts, bar charts, and pie charts.
 
-Interactivity & Filters
+## Interactivity & Filters
 
 Added slicers for state-wise and category-wise analysis.
 
-Publishing & Sharing
+## Publishing & Sharing
 
 Uploaded the dashboard to Power BI Service and shared the link.
 
