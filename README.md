@@ -12,13 +12,13 @@
 5. [Snapshots](#snapshots)  
 6. [Conclusion](#conclusion)
 
-#Introduction
+# Introduction
 This project presents a Power BI dashboard analyzing sales, profit, and quantity trends for a Sample Superstore dataset. The dashboard provides insights into performance metrics across different states, product categories, and regions.
 
 #Dashboard Link
 
 
-#Steps-followed
+# Steps-followed
 Data Collection
 
 Imported Sample Superstore dataset.
@@ -43,7 +43,7 @@ Publishing & Sharing
 
 Uploaded the dashboard to Power BI Service and shared the link.
 
-#Results
+# Results
 
 The total sales amount is $65,003.12.
 
@@ -53,13 +53,13 @@ The East region contributes the most profit ($3.51K).
 
 The Corporate segment has the highest profit contribution ($4.56K).
 
-#Snapshots
+# Snapshots
 
 Below is a preview of the Power BI dashboard:
 
 ![Image](https://github.com/user-attachments/assets/e286af68-e3f0-4390-8b88-fe7c52f6e010)
 
-#Conclusion
+# Conclusion
 
 This Power BI dashboard effectively showcases key business insights, including sales trends, profitability, and segment-wise performance. It provides a user-friendly interface for analyzing business performance at a glance.
 
