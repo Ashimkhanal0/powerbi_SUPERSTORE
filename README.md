@@ -19,7 +19,7 @@ This project presents a Power BI dashboard analyzing sales, profit, and quantity
 
 
 # Steps-followed
-Data Collection
+## Data Collection
 
 Imported Sample Superstore dataset.
 
